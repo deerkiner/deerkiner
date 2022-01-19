@@ -1,6 +1,8 @@
-╭┈──────────────➤
+# About me
 
-<Hello, I'm deerkiner 😋/>
+**╭┈──────────────➤**
+
+**<Hello, I'm deerkiner 😋/>**
 
 ▸ I'm a Spanish guy that enjoys creating stuff,
 currently learning Web Development which i'm
@@ -13,9 +15,18 @@ the process
 
 ▸ I'd love to collaborate with other people
 that are learning at this moment to create
-fun stuff and learn from it!
+fun stuff and learn from it 😊!
 
-╰┈┈┈┈┈┈┈┈┈➤
+**╰┈┈┈┈┈┈┈┈┈➤**
+
+# Technologies
+
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+
+</a>
+
 
 <!---
 deerkiner/deerkiner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
