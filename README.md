@@ -13,7 +13,7 @@ the process
 
 ▸ I'd love to collaborate with other people
 that are learning at this moment to create
-fun stuff and learn with it!
+fun stuff and learn from it!
 
 ╰┈┈┈┈┈┈┈┈┈➤
 
